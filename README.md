@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Bilal Amjad
-- 💞️ I’m interested in software development
+- 💞️ I’m interested in software engineering
 - 🌱 I'm currently learning tools related to the javascript ecosystem
 - 📫 How to reach me -> https://pk.linkedin.com/in/ahmadbilalamjad
 
