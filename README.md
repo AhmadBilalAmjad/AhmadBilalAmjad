@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Bilal Amjad
-- 💞️ I’m interested in software engineering
-- 🌱 I'm currently learning tools related to the javascript ecosystem
+- 💞️ I enjoy building sites & apps
+- 🌱 I'm currently learning tools related to the web ecosystem
 - 📫 How to reach me -> https://pk.linkedin.com/in/ahmadbilalamjad
 
 <!---
