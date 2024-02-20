@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ahmad Bilal Amjad
 - 💞️ I enjoy building sites & apps
 - 🌱 I'm currently learning tools related to the web ecosystem
-- 📫 How to reach me -> https://pk.linkedin.com/in/ahmadbilalamjad
+- 📫 How to reach me -> ahmad.bilal.amjad@gmail.com
+- 🔗 Connect with me -> https://pk.linkedin.com/in/ahmadbilalamjad
 - 🌐 Portfolio -> https://ahmadbilalamjad.vercel.app/
 
 <!---
