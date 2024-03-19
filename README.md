@@ -20,7 +20,7 @@
 <!-- social handles -->
 <div align="center">
   <!-- portfolio -->
-  <a href="https://ahmadbilalamjad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐-000000?style=for-the-badge" target="_blank"></a>
+  <a href="https://ahmadbilalamjad.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" target="_blank"></a>
   <!-- gmail -->
   <a href="mailto:ahmad.bilal.amjad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <!-- linkedin -->
