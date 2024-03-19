@@ -4,14 +4,14 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ahmad Bilal Amjad!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ahmad+Bilal+Amjad!;&center=true&size=30">
   </a>
 </h1>
 
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Ahmad Bilal Amjad, Software Engineer/Senior Full Stack Engineer 💻 from Pakistan.
+  Hi, I'm Ahmad Bilal Amjad, Software Engineer/Senior FullStack Engineer 💻 from Pakistan.
   <br />
   💞️ I enjoy building meaningful sites & apps
   <br />
