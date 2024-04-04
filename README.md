@@ -11,9 +11,9 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Ahmad Bilal Amjad, Senior Software Engineer/FullStack Engineer 💻 from Pakistan.
+  Hi, I'm Ahmad Bilal Amjad, a Seasoned Software Engineer/FullStack Engineer 💻 from Pakistan.
   <br />
-  💞️ I enjoy building meaningful sites & apps
+  💞️ I enjoy building meaningful websites & web apps
   <br />
 </p>
 
