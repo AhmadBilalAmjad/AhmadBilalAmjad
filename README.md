@@ -1,8 +1,9 @@
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=AhmadBilalAmjad">
 
-https://streamable.com/thumbnail/vw7w8g
+
 [![Watch the video](https://streamable.com/thumbnail/vw7w8g)](https://www.youtube.com/watch?v=your-video-id)
+<a href="https://streamable.com/thumbnail/vw7w8g" target="_blank">Watch the video on Streamable</a>
 
 <!-- introduction -->
 <h1 align="center">
