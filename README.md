@@ -1,6 +1,9 @@
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=AhmadBilalAmjad">
 
+https://streamable.com/thumbnail/vw7w8g
+[![Watch the video](https://streamable.com/thumbnail/vw7w8g)](https://www.youtube.com/watch?v=your-video-id)
+
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
